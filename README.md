@@ -36,7 +36,7 @@ This API relies on a mobile phone to work, requirements are as follows
 
 ## 3. API usage
 
-##Authentication by token is required. Put token in HTTP request header in the following format##
+## Authentication by token is required. Put token in HTTP request header in the following format ##
 
 ```
 headers = {
