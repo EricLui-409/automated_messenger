@@ -1,4 +1,4 @@
-#An automated messenging service
+# An automated messenging service
 
 ## 1. Description
 
